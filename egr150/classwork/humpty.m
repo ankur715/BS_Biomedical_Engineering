@@ -1,0 +1,3 @@
+clear;clc
+
+imread(humpty)
